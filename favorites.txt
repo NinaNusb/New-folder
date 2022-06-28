@@ -1,3 +1,6 @@
 pomme
 poire
 fraise
+un
+deux
+trois
